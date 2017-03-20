@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomPickers</string>
+
+    <string name="dateSelection">Select Date</string>
+
+    <string name="TimeSelection">Select Time</string>
+
+
+
+</resources>
